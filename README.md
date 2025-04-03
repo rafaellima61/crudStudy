@@ -1,5 +1,3 @@
-Aqui está um exemplo de README para o seu projeto CRUD feito em Spring Boot:
-
 ```markdown
 # CRUD Study
 
@@ -74,9 +72,6 @@ O projeto utiliza o banco de dados H2 para propósitos de desenvolvimento e test
 - **User Name:** `sa`
 - **Password:** (deixe em branco)
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
 ## Licença
 
